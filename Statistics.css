@@ -1,0 +1,30 @@
+.statistics-page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.stats-list {
+  margin-top: 2rem;
+}
+.stats-row {
+  background: #e3f2fd;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.short-url {
+  font-weight: bold;
+  color: #1976d2;
+  margin-bottom: 0.5rem;
+}
+.click-details {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+ul {
+  margin: 0.5rem 0 0 1rem;
+  padding: 0;
+}
+li {
+  margin-bottom: 0.3rem;
+}
